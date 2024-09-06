@@ -1,0 +1,1 @@
+worker: python TsigmaFirst_bot.py
