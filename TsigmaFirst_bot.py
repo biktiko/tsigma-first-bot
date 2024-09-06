@@ -18,5 +18,5 @@ if __name__ == '__main__':
         listen="0.0.0.0",
         port=PORT,
         url_path=TOKEN,
-        webhook_url=f"https://tsigma-first-test-bot-f00e73b548b4.herokuapp.com//{TOKEN}"
+        webhook_url=f"https://tsigma-first-test-bot-f00e73b548b4.herokuapp.com/{TOKEN}"
     )
