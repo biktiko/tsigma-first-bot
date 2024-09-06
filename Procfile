@@ -1,1 +1,1 @@
-worker: python TsigmaFirst_bot.py
+web: python TsigmaFirst_bot.py
